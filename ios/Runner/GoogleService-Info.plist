@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>419369244105-fmefq41p60vmcnejhe0blaunn3j30ak8.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.419369244105-fmefq41p60vmcnejhe0blaunn3j30ak8</string>
+	<key>API_KEY</key>
+	<string>AIzaSyBkolGwkllZMkdNVSVzYQPCZ65YysCvmhQ</string>
+	<key>GCM_SENDER_ID</key>
+	<string>419369244105</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.futuristacademy.faApp</string>
+	<key>PROJECT_ID</key>
+	<string>futurist-academy-1565548134536</string>
+	<key>STORAGE_BUCKET</key>
+	<string>futurist-academy-1565548134536.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:419369244105:ios:333e0372f785f4d9ea0418</string>
+	<key>DATABASE_URL</key>
+	<string>https://futurist-academy-1565548134536.firebaseio.com</string>
+</dict>
+</plist>
